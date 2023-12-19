@@ -1,0 +1,4 @@
+﻿  FileName.cpp
+J:\Visiual C++\Z6_C++\Z6_C++\FileName.cpp(32,30): warning C4244: инициализация: преобразование "uint64_t" в "uint32_t", возможна потеря данных
+J:\Visiual C++\Z6_C++\Z6_C++\FileName.cpp(33,34): warning C4244: инициализация: преобразование "uint64_t" в "uint32_t", возможна потеря данных
+  Z6_C++.vcxproj -> J:\Visiual C++\Z6_C++\x64\Debug\Z6_C++.exe
